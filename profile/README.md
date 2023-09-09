@@ -1,12 +1,10 @@
-## Hi there 👋
+# Kellnr - The Crate Registry for Rust
 
-<!--
+Kellnr is a free and open-source registry for [Rust](https://www.rust-lang.org/) crates. Think of [crates.io](https://crates.io/), but on your own hardware for your private crates.
 
-**Here are some ideas to get you started:**
+You can finde more information about Kellnr on our official [Kellne Webpage](https://kellnr.io/).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This GitHub organisation contains all the code, blog post and more related to the development of Kellnr.
+  
+| :exclamation:  This ogranisation is new and still under construction. We are currently moving all code from the old organisation to this one.  |
+|-----------------------------------------|
